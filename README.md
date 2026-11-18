@@ -6,7 +6,7 @@
 
 ## 📋 [Scheda di laboratorio](laboratorio.md)
 
-La scheda guida passo passo l'esercitazione di 2 ore:
+La scheda guida passo passo l'esercitazione:
 - ciclo attivo, dal nuovo cliente all'incasso;
 - merce insufficiente;
 - ciclo passivo con il riordino;
