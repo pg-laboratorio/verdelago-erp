@@ -33,15 +33,14 @@ flowchart LR
     F --> G["📄 Fattura fornitore<br/><small>nasce il <b>debito</b></small>"]
     G --> H["💳 Pagamento<br/><small>il debito si <b>chiude</b></small>"]
 ```
-
 | Parte | Attività |
-|:-:|---|:-:|
+| :--- | :--- |
 | **A** | Esplorare l'azienda e il programma | 
 | **B** | Ciclo attivo: dal nuovo cliente all'incasso |
 | **C** | Il caso della merce insufficiente | 
 | **D** | Ciclo passivo: riordino e acquisti | 
 | **E** | Analisi direzionale con il cruscotto | 
-| **F** | Esportazione e consegna | 
+| **F** | Esportazione e consegna |
 
 ---
 
