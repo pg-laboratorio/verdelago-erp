@@ -34,14 +34,14 @@ flowchart LR
     G --> H["💳 Pagamento<br/><small>il debito si <b>chiude</b></small>"]
 ```
 
-| Parte | Attività | Tempo |
+| Parte | Attività |
 |:-:|---|:-:|
-| **A** | Esplorare l'azienda e il programma | 15' |
-| **B** | Ciclo attivo: dal nuovo cliente all'incasso | 30' |
-| **C** | Il caso della merce insufficiente | 15' |
-| **D** | Ciclo passivo: riordino e acquisti | 25' |
-| **E** | Analisi direzionale con il cruscotto | 25' |
-| **F** | Esportazione e consegna | 10' |
+| **A** | Esplorare l'azienda e il programma | 
+| **B** | Ciclo attivo: dal nuovo cliente all'incasso |
+| **C** | Il caso della merce insufficiente | 
+| **D** | Ciclo passivo: riordino e acquisti | 
+| **E** | Analisi direzionale con il cruscotto | 
+| **F** | Esportazione e consegna | 
 
 ---
 
