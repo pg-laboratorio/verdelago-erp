@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>VerdeLago ERP – demo didattica</title>
+  <meta name="description" content="Piccolo ERP didattico: anagrafiche, vendite, acquisti, magazzino e cruscotto direzionale.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🌿%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="layout">
+    <aside class="sidebar" id="sidebar">
+      <a class="brand" href="#/cruscotto">
+        <span class="logo" aria-hidden="true">🌿</span>
+        <span><strong>VerdeLago ERP</strong><small>Demo didattica</small></span>
+      </a>
+      <nav id="nav" aria-label="Moduli"></nav>
+      <div class="sidebar-foot">I dati sono salvati solo in questo browser.</div>
+    </aside>
+    <div class="main-wrap">
+      <header class="topbar">
+        <button id="menuBtn" class="icon-btn menu-btn" data-action="menu" aria-label="Apri il menu">☰</button>
+        <div id="crumb" class="crumb"></div>
+        <div id="aziendaNome" class="azienda-nome"></div>
+      </header>
+      <main id="main"></main>
+    </div>
+  </div>
+
+  <div id="modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <div class="modal-box">
+      <div class="modal-head">
+        <h2 id="modalTitle"></h2>
+        <button class="icon-btn" data-action="close-modal" aria-label="Chiudi">✕</button>
+      </div>
+      <div id="modalBody" class="modal-body"></div>
+      <div id="modalFoot" class="modal-foot"></div>
+    </div>
+  </div>
+  <div id="toasts" aria-live="polite"></div>
+
+  <script src="js/store.js"></script>
+  <script src="js/demo-data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
