@@ -1,6 +1,6 @@
 ![Laboratorio con VerdeLago ERP](img/banner-laboratorio.svg)
 
-**VerdeLago ERP** è un piccolo gestionale integrato (ERP) per le esercitazioni di **Sistemi Informativi Aziendali** (Informatica, 4ª AFM). Funziona direttamente nel browser, senza installare nulla.
+**VerdeLago ERP** è un piccolo gestionale integrato (ERP) per le esercitazioni di **Sistemi Informativi Aziendali**. Funziona direttamente nel browser, senza installare nulla.
 
 ## ▶ [Apri VerdeLago ERP](https://pg-laboratorio.github.io/verdelago-erp/)
 
