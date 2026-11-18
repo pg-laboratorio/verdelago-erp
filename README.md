@@ -39,13 +39,7 @@ Dentro il programma, la pagina **Guida ed esercizi** contiene altre attività da
 ---
 
 <details>
-<summary><strong>Per il docente: come pubblicare il repository</strong></summary>
-
-1. Crea su GitHub un repository **pubblico** chiamato `verdelago-erp` e carica tutto il contenuto di questa cartella, compreso il file nascosto `.nojekyll`.
-2. In **Settings → Pages** scegli *Deploy from a branch*, branch **main**, cartella **/ (root)**, e salva.
-3. Dopo un paio di minuti il programma è raggiungibile all'indirizzo `https://<utente>.github.io/verdelago-erp/`.
-4. In questo README e in `laboratorio.md` sostituisci `pg-laboratorio` con il tuo nome utente GitHub.
-
+<summary><strong>Per il docente: 
 **Struttura**
 
 ```
