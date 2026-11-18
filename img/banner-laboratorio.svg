@@ -21,7 +21,7 @@
     <circle cx="1140" cy="160" r="8" fill-opacity=".7"/>
   </g>
   <circle cx="930" cy="140" r="30" fill="none" stroke="#ffffff" stroke-opacity=".4" stroke-width="2"/>
-  <text x="60" y="88" fill="#9fdcb8" font-size="20" font-weight="600" letter-spacing="3">SISTEMI INFORMATIVI AZIENDALI · LEZIONE 4 · LABORATORIO</text>
+  <text x="60" y="88" fill="#9fdcb8" font-size="20" font-weight="600" letter-spacing="3">SISTEMI INFORMATIVI AZIENDALI · LABORATORIO</text>
   <text x="60" y="150" fill="#ffffff" font-size="44" font-weight="700">Laboratorio</text>
   <text x="60" y="202" fill="#ffffff" font-size="44" font-weight="700">con VerdeLago ERP</text>
   <text x="60" y="252" fill="#cfe7da" font-size="20">Ciclo attivo · Ciclo passivo · Magazzino · Analisi del cruscotto</text>
