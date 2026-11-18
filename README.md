@@ -2,7 +2,7 @@
 
 **VerdeLago ERP** è un piccolo gestionale integrato (ERP) per le esercitazioni di **Sistemi Informativi Aziendali** (Informatica, 4ª AFM). Funziona direttamente nel browser, senza installare nulla.
 
-## ▶ [Apri VerdeLago ERP](https://TUO-UTENTE.github.io/verdelago-erp/)
+## ▶ [Apri VerdeLago ERP](https://pg-laboratorio.github.io/verdelago-erp/)
 
 ## 📋 [Scheda di laboratorio](laboratorio.md)
 
@@ -44,7 +44,7 @@ Dentro il programma, la pagina **Guida ed esercizi** contiene altre attività da
 1. Crea su GitHub un repository **pubblico** chiamato `verdelago-erp` e carica tutto il contenuto di questa cartella, compreso il file nascosto `.nojekyll`.
 2. In **Settings → Pages** scegli *Deploy from a branch*, branch **main**, cartella **/ (root)**, e salva.
 3. Dopo un paio di minuti il programma è raggiungibile all'indirizzo `https://<utente>.github.io/verdelago-erp/`.
-4. In questo README e in `laboratorio.md` sostituisci `TUO-UTENTE` con il tuo nome utente GitHub.
+4. In questo README e in `laboratorio.md` sostituisci `pg-laboratorio` con il tuo nome utente GitHub.
 
 **Struttura**
 
