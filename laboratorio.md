@@ -44,7 +44,7 @@ flowchart LR
 
 ---
 
-## Parte A – Esplorare l'azienda (15')
+## Parte A – Esplorare l'azienda
 
 Prima di lavorare, guardati intorno. Usa il menu a sinistra e rispondi alle domande **A1–A5** della scheda.
 
@@ -58,7 +58,7 @@ Prima di lavorare, guardati intorno. Usa il menu a sinistra e rispondi alle doma
 
 ---
 
-## Parte B – Ciclo attivo: dal nuovo cliente all'incasso (30')
+## Parte B – Ciclo attivo: dal nuovo cliente all'incasso
 
 ### B1. Inserisci un nuovo cliente
 
@@ -119,7 +119,7 @@ Il bar paga con un bonifico. In **Vendite → Fatture di vendita** premi **Incas
 
 ---
 
-## Parte C – Il caso della merce insufficiente (15')
+## Parte C – Il caso della merce insufficiente
 
 Un camping vuole regalare una compostiera a ogni piazzola. Crea un nuovo ordine per **Camping Punta Sole S.r.l.** con **50** pezzi di *P015 – Compostiera da giardino 300 l*. Salva e prova a creare il DDT.
 
@@ -137,7 +137,7 @@ Lascia l'ordine aperto: lo potrai evadere dopo il riordino, se vuoi.
 
 ---
 
-## Parte D – Ciclo passivo: riordino e acquisti (25')
+## Parte D – Ciclo passivo: riordino e acquisti 
 
 ### D1. Le proposte di riordino
 
@@ -167,7 +167,7 @@ Durante il conteggio fisico trovi **2 soffioni doccia in meno** di quelli regist
 
 ---
 
-## Parte E – Analisi direzionale (25')
+## Parte E – Analisi direzionale 
 
 Ora sei la **direzione** di VerdeLago. Apri il **Cruscotto** e usa il filtro **Periodo** in alto a destra. Rispondi alle domande **E1–E6** della scheda, motivando ogni risposta con i dati.
 
@@ -182,7 +182,7 @@ Ora sei la **direzione** di VerdeLago. Apri il **Cruscotto** e usa il filtro **P
 
 ---
 
-## Parte F – Esportazione e consegna (10')
+## Parte F – Esportazione e consegna
 
 1. Vai in **Impostazioni e dati** e premi **⬇ Esporta dati (file JSON)**.
 2. Rinomina il file con il tuo cognome, ad esempio `rossi-verdelago.json`.
