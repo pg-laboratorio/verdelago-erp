@@ -1,6 +1,6 @@
 ![Laboratorio con VerdeLago ERP](img/banner-laboratorio.svg)
 
-[⬅ Torna a VerdeLago ERP](README.md) · **▶ [Apri il programma](https://TUO-UTENTE.github.io/verdelago-erp/)**
+[⬅ Torna a VerdeLago ERP](README.md) · **▶ [Apri il programma](https://pg-laboratorio.github.io/verdelago-erp/)**
 
 > [!NOTE]
 > **In questo laboratorio:**
